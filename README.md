@@ -1,2 +1,1 @@
-# rpsg
-game
+myGame
